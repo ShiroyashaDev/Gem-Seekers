@@ -2,8 +2,8 @@
 
 Gem Seekers is your one stop hub to discover and find hidden crypto gems from all of the best seekers in the crypto space.
 
-### [View App](https://beta.gemseekers.io/) 
-### [View Site](https://gemseekers.io/)
+### [View App](https://beta.gemseekers.io/) | [View Site](https://gemseekers.io/)
+
 ------------
 
 #### All Links for Floki Inu
